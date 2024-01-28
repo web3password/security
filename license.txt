@@ -1,0 +1,134 @@
+Web3Password Licence Agreement
+This agreement is dated __________________ 2023
+
+Parties
+(1)	Web3Password Pte. Ltd. (UEN 202333030C), a company incorporated in Singapore whose registered office is at 100 Lorong 23 Geylang, #04-03 D’Centennial, Singapore 388398 (Web3Password) 
+(2)	[insert full name] ([insert identification information], of [insert address] (Licensee) 
+
+Background
+Web3Password (together with its related companies) is the author and developer of, and owns all right, title and interest in and to, the Web3Password Original Software. This agreement (as updated, amended and supplemented from time to time by Web3Password, Licence) sets out the scope of the release of Web3Password Original Software and Web3Password Licensed Software to the Licensee, and the Licensee’s rights and responsibilities as licensee.
+
+It is agreed as follows:
+
+1	General
+
+1.1 The Licence constitutes a binding legal agreement between the Licensee and Web3Password. 
+
+1.2 Web3Password may update and amend the Licence from time to time. Unless otherwise stated by Web3Password, each update or amendment of the Licence comes into force as of the moment when it is published on https://web3password.com/web3password_license.txt. The Licensee understands and agrees that it is the Licensee’s obligation to review the Licence from time to time in order to stay informed on current provisions. The Licensee’s continued use of the Web3Password Licensed Software will be deemed acceptance of the amended Licence. 
+
+1.3 The Licensee warrants and represents that he/she has full legal capacity to enter into and be bound all by the terms of this agreement. 
+
+2 Definitions and interpretation
+
+2.1 The following terms shall have the meaning ascribed to them respectively below:
+Source Code means the common form of computer software code in which modifications are made and associated documentation included in such code.
+
+Terms means the terms of use published at https://web3password.com/terms.
+
+Web3Password Licensed Software means: (a) the Web3Password Original Software; (b) Web3Password Software Derivations; or (c) (the whole or any part of) the combination of the Web3Password Original Software and Web3Password Software Derivations.
+
+Web3Password Original Software means (the whole or any part of) the Source Code and executable form of computer software code that is originally released under this Licence.
+
+Web3Password Software Derivation means (the whole or any part of) the Source Code and the executable form of any or any part of: (a) any file that results from an addition to, deletion from or modification of the contents of a file containing Web3Password Original Software or any previously modified Web3Password Original Software; (b) any new file that contains any part of the Web3Password Original Software or any previously modified Web3Password Original Software; or (c) any new file that is contributed or otherwise made available under this Licence.
+
+3 Licence 
+
+3.1 Subject to the Licensee’s compliance with the terms and conditions of the Licence and the Terms and, all warranties and representations of the Licensee being true and accurate, Web3Password grants the Licensee a limited, non-exclusive, non-transferable, royalty-free licence to copy, use and modify the Web3Password Licensed Software in a non-production environment for the sole purpose of conducting source code reviews for internal testing. The size of the test environment shall be limited to 5 people or less. 
+
+3.2 Except as expressly set out in Clause 3.1 above, no other licence to the Web3Password Licensed Software is granted (whether by implication, estoppel or otherwise) to the Licensee under this Licence. 
+
+4 Responsibilities 
+
+4.1 The Licensee is prohibited from commercially exploiting the Web3Password Licensed Software. Without prejudice to the generality of the foregoing, the Licensee shall not (a) use the Web3Password Licensed Software to create a competing product or service; nor (b) sell, rent, lease, distribute, sub-license, export, loan, assign, transfer or transmit in any manner, the Web3Password Licensed Software, to any third party.
+
+4.2 Any Web3Password Software Derivation created by the Licensee may identify the Licensee as the contributor of modifications which they have made but the Licensee must retain all copyright, patent, trademark, service mark, logo and attribution notices included in the Web3Password Original Software with all Web3Password Licensed Software. The use of Web3Password trademark, service mark and logo is subject to Web3Password’s guidelines set out at https://web3password.com.
+
+4.3 The rights (including, for the avoidance of doubt, intellectual property rights), title and interest in and to all Web3Password Software Derivation created or contributed by the Licensee, regardless of whether the corresponding Source Code was created or contributed through open source platforms such as https://github.com or https://gitlab.com or otherwise, shall belong to Web3Password. The Licensee hereby unconditionally transfers and agrees to transfer all rights that they may have to the Web3Password Software Derivation to Web3Password free of charge. The Licensee hereby unconditionally waives and agrees to waive any right to assert ownership or any other proprietary claim to or over any Web3Password Software Derivation.
+
+5 Third party software
+
+The Web3Password Licensed Software may contain third party open source libraries, components, utilities and other open source software (collectively, Open Source Software). Use of the Open Source Software would be subject to the licence terms and conditions applicable to such Open Source Software. To the extent that any condition in this Licence conflicts with any licence to the Open Source Software, the Open Source Software licence will govern with respect to such Open Source Software only.
+
+6 Disclaimer and limitation of liability
+
+6.1 The Web3Password Licensed Software is provided under this Licence on an ‘as is’ basis, without warranty of any kind, either express or implied, including without limitation, warranties that the Web3Password Licensed Software is free of defects, merchantable or fit for a particular purpose or warranties as to title or non-infringement. In the event that the Web3Password Licensed Software is defective or otherwise does not perform as expected, the Licensee shall assume the cost of any necessary servicing, repair or correction. This disclaimer constitutes an essential part of this Licence and no use of the Web3Password Licensed Software is authorised except under this disclaimer.
+
+6.2 Web3Password is not under any obligation to provide maintenance or support services for the Web3Password Licensed Software under this Licence.
+
+6.3 Under no circumstances, and regardless of whether a breach of contract, tort (including negligence) or other legal theory is alleged, shall Web3Password be liable to the Licensee or any other person for any direct, indirect, special, incidental or consequential damages of any kind, including without limitation, loss of profits, loss of goodwill, loss of use, work stoppage, business interruption, computer failure or malfunction, loss of data, cost of substitute goods or services, or any other commercial damages or losses, in connection with the Web3Password Licensed Software even if Web3Password shall have been informed of the possibility of such damages.
+
+7 Termination
+
+7.1 The Licence will terminate automatically if the Licensee fails to comply with any of the terms in this agreement or any warranty or representation of the Licensee is not true and accurate.
+
+7.2 Web3Password may terminate the Licence by giving notice to the Licensee. The notice may be given by email or any other means of communication deemed appropriate by Web3Password.
+
+7.3 Upon termination of the Licence, the Licensee must promptly cease use of the Web3Password Licensed Software and destroy any copies of the same that are in the Licensee’s control or possession.
+
+7.4 Clauses of this Licence which by their nature must remain in effect beyond termination of this Licence shall survive its termination.
+
+8 No agency
+
+No agency, partnership, joint venture or employment is created by the grant of the Licence. The Licensee has no authority of any kind to bind Web3Password in any respect whatsoever.
+
+9 Assignment
+
+The Licensee may not assign the Licence without Web3Password’s prior written consent.
+
+10 Variation and waiver
+
+10.1 Web3Password reserves the right to vary any term of this agreement. Other than variations by Web3Password, no variation of this agreement shall be effective unless it is in writing and signed by the parties (or their authorised representatives).
+
+10.2A waiver of any right or remedy under this agreement or by law is only effective if given in writing and signed by the person waiving such right or remedy. Any such waiver shall apply only to the circumstances for which it is given and shall not be deemed a waiver of any subsequent breach or default.
+
+10.3A failure or delay by any person to exercise any right or remedy provided under this agreement or by law shall not constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict any further exercise of that or any other right or remedy. No single or partial exercise of any right or remedy provided under this agreement or by law shall prevent or restrict the further exercise of that or any other right or remedy.
+
+11 Counterparts
+
+11.1 This agreement may be executed in any number of counterparts, each of which shall constitute a duplicate original, but all the counterparts shall together constitute the one agreement.
+
+11.2 Transmission of the executed signature page of a counterpart of this agreement by email (in PDF or other agreed format) shall take effect as the transmission of a “wet-ink” counterpart of this agreement. If this method of transmission is adopted, without prejudice to the validity of the agreement thus made, each party shall on request provide the other with the “wet-ink” copy original of their counterpart.
+
+11.3 No counterpart shall be effective until each party has executed and delivered at least one counterpart.
+
+12 Third party rights
+
+A person who is not a party to this agreement shall not have any rights under the Contracts (Rights of Third Parties) Act 2001 to enforce, or enjoy the benefit of, any term of this agreement.
+
+13 Entire agreement
+
+This Licence represents the entire agreement between Web3Password and the Licensee concerning its subject matter and supersedes any previous or contemporaneous communications, whether oral or written. If any provision of the Licence is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the legal agreement between Web3Password and the Licensee will otherwise remain in full force, in effect and enforceable.
+
+14 Governing law and jurisdiction
+
+14.1 This Licence and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation (Disputes) shall be governed by and construed in accordance with the law of Singapore.
+
+14.2 Each party irrevocably agrees that, subject as provided below, the courts of Singapore shall have exclusive jurisdiction over Disputes.
+
+14.3 The Licensee hereby expressly acknowledges and agrees that the selections of Singapore law and jurisdiction in clause 14.1 and 14.2 were made freely and after due consideration. The Licensee further agrees that the Singapore courts are the most appropriate and convenient courts to settle Disputes and accordingly the Licensee will not argue to the contrary.
+
+14.4 This clause 14 is for the benefit of Web3Password only. As a result, Web3Password shall not be prevented from taking proceedings relating to Disputes in any other courts with jurisdiction. To the extent allowed by law, Web3Password may take concurrent proceedings in any number of jurisdictions.
+
+15 Prevailing language
+
+For all purposes, the English language version of the Licence shall be the original, governing instrument and understanding between Web3Password and the Licensee. In the event of any conflict between this English language version of the Licence and any subsequent translation into any other language, the English language version shall prevail.
+
+
+
+
+EXECUTION PAGE
+This agreement is executed and takes effect at the date written at the beginning of it.
+
+The Licensor
+Signed by who on behalf of WEB3PASSWORD PTE. LTD.
+		
+
+_______________________
+
+
+		
+The Licensee
+Signed by
+
+
+_______________________
