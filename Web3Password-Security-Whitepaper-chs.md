@@ -12,7 +12,7 @@
 
 > 出于对 Bitcoin 相关区块链技术的深厚理解，Web3Password 团队创新的将 Bitcoin 中广泛使用的 BIP39/BIP44 助记词引入到 Web3Password 的账户体系中，使用它完整实现了一个基于 ECDSA 签名的 Passkey 账户逻辑，基于这种实现，Web3Password 提供了一个有 Bitcoin 背书的账户体系，使得 Web3Password 的账户体系变得跟 Bitcoin 一样安全。同时，你的这个助记词不在任何网络传输，只在你的设备端存储和使用，Web3Password 也无法访问他。
 
-![](image/Web3Password-Client-20231130.jpg)
+![1](./image/Web3Password-Client-20231130.jpg)
 
 > 基于这样创新技术方案，在 Web3Password 的产品体系里面，不会再出现传统产品需要的 Email, SMS, Password，OTP 或者 双因子验证(2FA) 之类的不安全的认证逻辑，也把 Master Password 这种不安全的设计彻底的从密码管理器产品中移除了，并且彻底解决了使用 Master Password 面临的暴力破解安全问题和工程实现安全问题，也彻底解决了cookie 和 token 会话被劫持的安全问题。
 
@@ -41,8 +41,8 @@
 
 > 经过 Web3Password 工程团队的评估，我们目前选择了密码学社区广泛推荐的 AES-256-GCM 和 Chacha20-Poly1305 两种支持 256 位密钥的加密算法用于用户机密数据的交叉加密。同时依托 Web3Password 强大的工程设计能力，我们在产品工程设计中，预留了良好的拓展性，确保 Web3Password 在需要的时候，可以引入新的安全算法来加密用户数据。
 
-![](image/Web3Password-Client-20231130.jpg)
-![](image/Web3Password-Full-20231130.jpg)
+![2](./image/Web3Password-Client-20231130.jpg)
+![3](./image/Web3Password-Full-20231130.jpg)
 
 - 彻底解决通信安全问题和存储安全问题
 
@@ -60,7 +60,7 @@
 
 > 在 Member 在访问共享记录的时候，就可以从 Share Folder 获取映射关系，从而获取使用 Member 公钥加密的 Share Folder Mnemonic，这时使用 Member 私钥就可以在客户端对 Share Folder Mnemonic 密文进行解密，得到 Share Folder Mnemonic 明文，因此 Member 就可以轻松在客户端解密从服务器获取的加密共享记录数据了。Owner 也可以随时吊销 Member 的访问权限。
 
-![](image/Web3Password-Secure-Share-20231130.jpg)
+![4](./image/Web3Password-Secure-Share-20231130.jpg)
 
 ## Web3Password 的透明协议原理
 

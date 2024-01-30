@@ -12,7 +12,7 @@
 
 > Web3Password innovatively introduces BIP39/BIP44 Mnemonic Phrase of Bitcoin into the Web3Password account system and utilizes it to develop a passkey account system based on ECDSA. So Web3Password provides an account system endorsed by Bitcoin, which makes Web3Password's account system as secure as Bitcoin. The Mnemonic Phrase is only controlled by you, and only stored on your own device. Not even Web3Password can access it.
 
-![](image/Web3Password-Client-20231130.jpg)
+![1](./image/Web3Password-Client-20231130.jpg)
 
 > Web3Password has entirely abandoned insecure authentication such as Email, Username, Password, SMS, OTP or 2-Factor. Additionally, Insecure key derivation from Master Password has been completely abandoned, and effectively resolving account security issues caused by brute-force or engineering.
 
@@ -40,8 +40,8 @@
 
 > After evaluation by Web3Password engineering team, we have selected AES-256-GCM and Chacha20-Poly1305, two encryption algorithms that support 256-bit keys,  to cross-encrypt your data. Additionally,  relying on Web3Password's powerful engineering capabilities, we have reserved good scalability to ensure that Web3Password can introduce new security algorithms to encrypt your data when necessary.
 
-![](image/Web3Password-Client-20231130.jpg)
-![](image/Web3Password-Full-20231130.jpg)
+![2](./image/Web3Password-Client-20231130.jpg)
+![3](./image/Web3Password-Full-20231130.jpg)
 
 - Communication and storage security
 
@@ -60,7 +60,7 @@
 
 > In this way, when the Member accesses the Share Folder, they can retrieve the mapping relationship from the server, thus obtaining ciphertext of the Share Folder Mnemonic. The Member can decrypt the ciphertext of the Shared Folder Mnemonic using their private keys on their devices. This allows the Member to easily access the plaintext of the Shared Folder Mnemonic on their devices, thus enabling them to decrypt the ciphertext of shared records on their devices effortlessly. The Owner also can revoke Member's access at any time.
 
-![](image/Web3Password-Secure-Share-20231130.jpg)
+![4](./image/Web3Password-Secure-Share-20231130.jpg)
 
 ## Transparent Protocol Principle of Web3Password
 
